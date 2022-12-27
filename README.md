@@ -1,5 +1,12 @@
 # 💫 About Me 💫 :
-👨‍💻 I'm studying programming and networks 👨‍💻<br>📓 Here I will post personal projects, notes and exercises📓<br>💻 If you want to collaborate on a project 💻                           <br>☎️ contact me!!! ☎️
+👨‍💻 I'm studying programming and networks 👨‍💻
+<br>
+📓 Here I will post personal projects, notes and exercises📓
+<br>
+💻 If you want more content, you can visit my website "https://themirrortech.com" 💻                           
+<br>
+http://themirrortech.com/imgs/logo.png
+
 
 
 ## 🌐 Socials 🌐:
