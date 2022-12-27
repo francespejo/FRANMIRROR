@@ -1,3 +1,4 @@
+\begin{center}
 # 💫 About Me 💫 :
 👨‍💻 I'm studying programming and networks 👨‍💻
 <br>
@@ -24,3 +25,4 @@
 
 ### ✍️ Random Dev Quote ✍️  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+\end{center}
