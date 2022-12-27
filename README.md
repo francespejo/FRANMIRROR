@@ -5,7 +5,7 @@
 <br>
 💻 If you want more content, you can visit my website "https://themirrortech.com" 💻                           
 <br>
-![Image text]http://themirrortech.com/imgs/logo.png
+![Image text](http://themirrortech.com/imgs/logo.png)
 
 
 
