@@ -1,7 +1,5 @@
 <div align="center">
 <h1>Hi 👋, I'm francmirror</h1>
-
-  <code><img height="150px" weidth="150px" src="https://avatars.githubusercontent.com/u/100909001?v=4" ></code>
   
  🔭 I'm a student who uploads didactic content and I'm developing the page https://themirrortech.com<br>
 <br>
