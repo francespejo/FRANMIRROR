@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi 👋, I'm francmirror</h1>
+<img width="1000px" height="500px" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/welcome.gif">
   
  🔭 I'm a student who uploads didactic content and I'm developing the page https://themirrortech.com<br>
 <br>
@@ -9,13 +9,18 @@
 
 
 # 🌐 My social networks 🌐:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/BrXGtpGm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-espejo-93348a23a/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/francmirror) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/francmirror) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20165114) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@francmirror) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/francmirror) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/francmirror) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCuzUgpd5q44QNvhMv1sOSEA) 
+<code><a href="https://twitter.com/francmirror"><img height="50" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/twitter.png"></a></code>
+<code><a href="https://www.linkedin.com/in/francisco-espejo-93348a23a/"><img height="50" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/linkedin.png"></a></code>
+<code><a href="https://www.reddit.com/user/francmirror"><img height="50" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/reddit.png"></a></code>
+<code><a href="https://www.tiktok.com/@francmirror"><img height="50" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/tik-tok.png"></a></code>
+<code><a href="https://www.twitch.tv/francmirror"><img height="50" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/twitch.png"></a></code>
+<code><a href="https://www.youtube.com/@francmirror"><img height="50" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/youtube.png"></a></code>
 
 # 💻 Tech Stack 💻:
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
+<code><img height="50" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/html.png"></code>
+<code><img height="50" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/css.png"></code>
+<code><img height="50" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/javascript.png"></code>
+<code><img height="50" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/git.png"></code>
  
   
   # Support:
