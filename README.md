@@ -1,14 +1,15 @@
 <div align="center">
-<img width="1000px" height="300px" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/welcomee.gif">
+<img width="1000px" height="200px" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/welcomee.gif"><br><br>
   
- 🔭 I'm a student who uploads didactic content and I'm developing the page https://themirrortech.com<br>
+ ### 🔭 I'm a student who uploads didactic content, develop applications and I'm developing the page https://themirrortech.com<br>
 <br>
-  
-![Image text](http://themirrortech.com/imgs/logo.png)
+
+  <a href="https://themirrortech.com"><img src="http://themirrortech.com/imgs/logo.png"></a>
   
 
 
 # 🌐 My social networks 🌐:
+#### Do you want more content and be able to interact with me? Here you have my social networks<br><br>
 <code><a href="https://twitter.com/francmirror"><img height="50" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/twitter.png"></a></code>
 <code><a href="https://www.linkedin.com/in/francisco-espejo-93348a23a/"><img height="50" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/linkedin.png"></a></code>
 <code><a href="https://www.reddit.com/user/francmirror"><img height="50" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/reddit.png"></a></code>
@@ -17,14 +18,16 @@
 <code><a href="https://www.youtube.com/@francmirror"><img height="50" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/youtube.png"></a></code>
 
 # 💻 Tech Stack 💻:
+  #### These are the technologies that I master right now, every day I try to study and learn new things, so they will be updated :D<br><br>
 <code><img height="50" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/html.png"></code>
 <code><img height="50" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/css.png"></code>
 <code><img height="50" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/javascript.png"></code>
 <code><img height="50" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/git.png"></code>
  
   
-  # Support:
-<p><a href="https://www.buymeacoffee.com/francmirror"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/francmirror" /></a></p><br>
+  # ☺️ Support ☺️:
+  #### If you like my work you can invite me to a coffee and raise your hack level. Thanks and enjoy!!! ‍💻☺️ 
+<p><a href="https://www.buymeacoffee.com/francmirror"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/francmirror" /></a></p>
 
 # 📊 GitHub Stats 📊:
 ![](https://github-readme-stats.vercel.app/api?username=Francmirror&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
