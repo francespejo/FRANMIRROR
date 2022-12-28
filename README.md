@@ -1,7 +1,7 @@
 <div align="center">
 <img width="1000px" height="200px" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/welcomee.gif"><br><br>
   
- ### 🔭 I'm a student who uploads didactic content, develop applications and I'm developing the page https://themirrortech.com<br>
+ ###  I'm a student who uploads didactic content, develop applications and I'm developing the page https://themirrortech.com<br>
 <br>
 
   <a href="https://themirrortech.com"><img src="http://themirrortech.com/imgs/logo.png"></a>
