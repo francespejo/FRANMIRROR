@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1000px" height="500px" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/welcome.gif">
+<img width="1000px" height="300px" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/welcomee.gif">
   
  🔭 I'm a student who uploads didactic content and I'm developing the page https://themirrortech.com<br>
 <br>
