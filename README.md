@@ -1,7 +1,7 @@
 <div align="center">
 <img width="1000px" height="200px" src="https://github.com/FrancMirror/FrancMirror/blob/main/imgs/welcomee.gif"><br><br>
   
- ###  👨‍🏫 I'm a student who uploads didactic content, develop applications and I'm developing the page <a href="https://francmirror.es👨‍"> francmirror.es </a> and the blog <a href="https://blog.francmirror.es"> blog.francmirror.es</a>🏫<br>
+ ###  👨‍🏫 I'm a student who uploads didactic content, develop applications and I'm developing the page <a href="https://francmirror.es👨‍">https;//francmirror.es </a> and the blog <a href="https://blog.francmirror.es"> blog.francmirror.es</a>🏫<br>
 <br> 
   ### 👨‍💻  In my repositories you can find educational content about networks, programming, cheat-sheets... I hope they serve you and that you enjoy them 👨‍💻 
   
