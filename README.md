@@ -30,6 +30,4 @@ Feel free to follow me on these platforms to stay up-to-date on my latest projec
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/francmirrordev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="francmirrordev" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francmirror&show_icons=true&locale=en&layout=compact" alt="francmirror" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francmirror&show_icons=true&locale=en" alt="francmirror" /></p>
