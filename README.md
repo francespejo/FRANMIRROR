@@ -2,6 +2,16 @@
 
 I'm a student of all kinds of technologies, and I enjoy exploring new ideas and experimenting with different tools and platforms. I'm passionate about learning and sharing my knowledge with others, and I'm excited to connect with like-minded people on GitHub.
 
+- 🔭 I’m currently working on [my blog](blog.francmirror.es)
+
+- 🌱 I’m currently learning **java and what it has to do with the backend**
+
+- 👨‍💻 All of my projects are available at [francmirror.es](francmirror.es)
+
+- 📝 I regularly write articles on [blog.francmirror.es](blog.francmirror.es)
+
+- 📄 Know about my experiences [francmirror.es](francmirror.es)
+
 ## What I Do 🤖
 
 On my GitHub profile, you'll find a variety of projects, exercises, and manuals related to various areas of technology. Some of the topics I'm interested in include:
