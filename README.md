@@ -6,12 +6,10 @@ I'm a student of all kinds of technologies, and I enjoy exploring new ideas and 
 
 On my GitHub profile, you'll find a variety of projects, exercises, and manuals related to various areas of technology. Some of the topics I'm interested in include:
 
-- 🌐 Web development with tools like HTML, CSS, JavaScript, React, and Node.js
+- 🌐 Web development with tools like HTML, CSS, JavaScript...
 - 🐧 Linux and open source software
-- 📊 Data science and analytics
-- ☁️ Cloud computing
 - 🔒 Cybersecurity
-- 🤖 Artificial intelligence and machine learning
+- 🤖 Networks
 
 I have a strong background in web development, and I'm proficient in a number of front-end and back-end tools and frameworks. I'm also experienced with Linux and open source software, and I enjoy tinkering with different distributions and configurations.
 
