@@ -20,8 +20,13 @@ I have a strong background in web development, and I'm proficient in a number of
 
 You can find me on GitHub at [github.com/francmirror](https://github.com/francmirror), where I regularly update my projects and share my latest work. You can also connect with me on social media using the same handle:
 
-- Twitter: [@francmirror](https://twitter.com/francmirror) 🐦
-- LinkedIn: [linkedin.com/in/francmirror/](https://www.linkedin.com/in/francmirror/) 👔
+## Connect with me
+<p align="left">
+<a href="https://codepen.io/francmirror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="francmirror" height="30" width="40" /></a>
+<a href="https://twitter.com/francmirror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="francmirror" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/francisco-espejo-carretero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco-espejo-carretero" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@francmirror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@francmirror" height="30" width="40" /></a>
+</p>
 
 Feel free to follow me on these platforms to stay up-to-date on my latest projects and musings on all things tech. Thanks for stopping by, and I look forward to connecting with you soon! 😄
 
