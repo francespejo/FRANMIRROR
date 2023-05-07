@@ -2,11 +2,9 @@
 
 I'm a student of all kinds of technologies, and I enjoy exploring new ideas and experimenting with different tools and platforms. I'm passionate about learning and sharing my knowledge with others, and I'm excited to connect with like-minded people on GitHub.
 
-- 📝 I regularly write articles on [blog.francmirror.com](https://blog.francmirror.com)
+- 📝 I regularly write articles on [francmirror.com](https://francmirror.com)
 
-- Do you want t-shirts about linux? or do you prefer it with the python logo, go to my online store and see what you like the most on [mirrorzen.com](https://mirrorzen.com)
-
-- 📄 Know about my experiences [francmirror.com](https://francmirror.com)
+- 📄 Know about my experiences [cv.francmirror.com](https://cv.francmirror.com)
 
 ## What I Do 🤖
 
