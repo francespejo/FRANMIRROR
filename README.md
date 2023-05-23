@@ -2,9 +2,9 @@
 
 I'm a student of all kinds of technologies, and I enjoy exploring new ideas and experimenting with different tools and platforms. I'm passionate about learning and sharing my knowledge with others, and I'm excited to connect with like-minded people on GitHub.
 
-- 📝 I regularly write articles on [francmirror.com](https://francmirror.com)
+- 📝 I regularly write articles on [blog.francmirror.com](https://blog.francmirror.com)
 
-- 📄 Know about my experiences [cv.francmirror.com](https://cv.francmirror.com)
+- 📄 Know about my experiences [francmirror.com](https://francmirror.com)
 
 ## What I Do 🤖
 
