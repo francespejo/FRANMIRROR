@@ -1,10 +1,6 @@
-# Hi, I'm Francmirror! 👋🏽
+# Hi, I'm FrankiMirror! 👋🏽
 
 I'm a student of all kinds of technologies, and I enjoy exploring new ideas and experimenting with different tools and platforms. I'm passionate about learning and sharing my knowledge with others, and I'm excited to connect with like-minded people on GitHub.
-
-- 📝 I regularly write articles on [MirrorSecOps.com](https://MirrorSecOps.com)
-
-- 📄 Know about my experiences [franmirror.com](https://franmirror.com)
 
 ## What I Do 🤖
 
