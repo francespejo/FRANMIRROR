@@ -1,6 +1,12 @@
 <h1>Hi 👋, I'm Frankimirror</h1>
 <h3>A Web developer and cyberanalyst</h3>
 
+<p>
+  My name is FrankiMirror, I am a web developer and cyberanalyst although I have also worked in other areas of the IT sector. My passion for technology and computing has led me to explore different areas, from web development to cybersecurity analysis. Thanks to my work experiences, my training and the thousand projects I have completed, I have acquired solid skills in creating digital solutions and identifying potential vulnerabilities.
+
+Problem solving and continuous learning are fundamental pillars in my approach to become the best day by day. I am constantly looking for challenges that allow me to expand my skills and bring innovative solutions.
+</p>
+
 - 👨‍💻 All of my projects are available at [https://frankimirror.com](https://frankimirror.com)
 
 - 📫 How to reach me **fran@frankimirror.com**
