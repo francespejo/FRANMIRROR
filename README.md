@@ -7,21 +7,14 @@
   Problem solving and continuous learning are fundamental pillars in my approach to become the best day by day. I am constantly looking for challenges that allow me to expand my skills and bring innovative solutions.
 </p>
 
-- 👯 I am collaborating in [MirrorT3ch](https://mirrort3ch.com)
-
 - 👨‍💻 All of my projects are available at [https://frankimirror.com](https://frankimirror.com)
-
-- 📝 I regularly write articles on [https://blog.frankimirror.com](https://blog.frankimirror.com)
 
 - 📫 How to reach me **fran@frankimirror.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/frankimirror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frankimirror" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://linkedin.com/in/francisco-espejo-carretero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/francisco-espejo-carretero" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61553038472629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61553038472629" height="30" width="40" /></a>
 <a href="https://instagram.com/frankimirror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frankimirror" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@frankimirror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@frankimirror" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
