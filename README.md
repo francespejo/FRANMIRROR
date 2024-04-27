@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Frankimirror</h1>
+<h1>Hi 👋, I'm FrancoMirror</h1>
 <h3>A Web developer and cyberanalyst</h3>
 
 <p>
@@ -7,9 +7,7 @@
 Problem solving and continuous learning are fundamental pillars in my approach to become the best day by day. I am constantly looking for challenges that allow me to expand my skills and bring innovative solutions.
 </p>
 
-- 👨‍💻 All of my projects are available at [https://frankimirror.com](https://frankimirror.com)
-
-- 📫 How to reach me **fran@frankimirror.com**
+- 📫 How to reach me **francomirror@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
