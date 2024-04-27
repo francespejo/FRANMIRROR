@@ -11,8 +11,8 @@ Problem solving and continuous learning are fundamental pillars in my approach t
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/francisco-espejo-carretero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/francisco-espejo-carretero" height="30" width="40" /></a>
-<a href="https://instagram.com/frankimirror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frankimirror" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://linkedin.com/in/fran-espj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/francisco-espejo-carretero" height="30" width="40" /></a>
+<a href="https://instagram.com/fran-espj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="francomirror" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
