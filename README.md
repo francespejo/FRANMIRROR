@@ -7,7 +7,7 @@
 Problem solving and continuous learning are fundamental pillars in my approach to become the best day by day. I am constantly looking for challenges that allow me to expand my skills and bring innovative solutions.
 </p>
 
-- 📫 How to reach me **francomirror@proton.me**
+- 📫 How to reach me **francespejo@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
